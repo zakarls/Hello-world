@@ -1,4 +1,4 @@
-### What does the program do ?
+### What does the program do?
 
 ----
 
